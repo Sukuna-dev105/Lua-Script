@@ -1,4 +1,4 @@
---此脚本由Smk开源发布，官方群聊638904774
+--此脚本由宿傩开源发布，官方群聊258819341
 if not game:IsLoaded() then
     game.Loaded:wait(0.1)
 end
@@ -2432,7 +2432,7 @@ end)
         						gta.MaxActivationDistance = 35
         						gta.RequiresLineOfSight = false
         						gta.HoldDuration = 0
-        						gta.ActionText = "Charlie觉得你可以把Ta抓起来，或者踩死"
+        						gta.ActionText = "你可以把Ta抓起来，或者踩死"
         						local leaderstats = Instance.new("IntValue")
         						leaderstats.Name = "leaderstats"
         						leaderstats.Value = player.stats.Money.Value
